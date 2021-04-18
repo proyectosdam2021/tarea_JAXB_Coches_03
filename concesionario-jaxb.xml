@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:concesionario xmlns:ns0="concesionario">
+   <nombre>MiConcesionario</nombre>
+   <localizacion>Telde</localizacion>
+   <cocheList>
+      <coche>
+         <marca>Toyota</marca>
+         <modelo>CHR</modelo>
+         <color>Blanco Perla</color>
+      </coche>
+      <coche>
+         <marca>Nissan</marca>
+         <modelo>Quasqai</modelo>
+         <color>Azul</color>
+      </coche>
+      <coche>
+         <marca>Lancia</marca>
+         <modelo>Thema</modelo>
+         <color>Negro</color>
+      </coche>
+   </cocheList>
+</ns0:concesionario>
